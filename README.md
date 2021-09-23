@@ -1,2 +1,2 @@
-# Test-task
+# Test-task for JetBrains Research
 Тестовое задание
